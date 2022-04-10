@@ -1,0 +1,38 @@
+.subCard {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #ebebeb;
+  padding: 10px 15px;
+  &__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+    h3 {
+    }
+    img {
+      width: 30px;
+    }
+  }
+  &__data {
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    h6 {
+      color: #a0a0a0;
+    }
+    p {
+      margin: 10px 0;
+    }
+    .price {
+      p {
+        background-color: rgb(237 249 235);
+      }
+    }
+    .totalNo {
+      span {
+      }
+    }
+  }
+}

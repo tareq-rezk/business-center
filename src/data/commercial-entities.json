@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "name": "مؤسسة خالد للسياحة متعددة الأنشطة",
+    "status": "سجل قائم",
+    "type": "سجل أساسي",
+    "entityData": {
+      "entityType": "مؤسسسة",
+      "endDate": "22 / 12 / 2022",
+      "unifiedNumber": "70022021",
+      "CommercialRegistrationNo": "1023459100"
+    }
+  },
+  {
+    "id": 1,
+    "name": "مؤسسة سعد للسياحة  نشاط فردي",
+    "status": "سجل قائم",
+    "type": "سجل أساسي",
+    "entityData": {
+      "entityType": "مؤسسسة",
+      "endDate": "22 / 12 / 2022",
+      "unifiedNumber": "70022021",
+      "CommercialRegistrationNo": "1023459100"
+    }
+  },
+  {
+    "id": 2,
+    "name": "مؤسسة قاسم للسياحة ثنائية النشاط",
+    "status": "سجل مشطوب",
+    "type": "سجل فرعي",
+    "entityData": {
+      "entityType": "مؤسسسة",
+      "endDate": "22 / 12 / 2002",
+      "unifiedNumber": "7024882021",
+      "CommercialRegistrationNo": "1028472100"
+    }
+  }
+]

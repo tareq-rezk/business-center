@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: "Cairo", sans-serif;
+}
+.App {
+  padding: 20px;
+}
+main {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  direction: rtl;
+  gap: 20px;
+}
+.list-col {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  gap: 20px;
+}
+.list-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+.m-20 {
+  margin: 20px 0;
+}
+
+.color-main {
+  color: #7c3b9b;
+}
